@@ -1,0 +1,15 @@
+12 reno la 100 12
+13 la sanFrancisco 50 4
+1. sanDiego sanFrancisco 50 6
+6 sanDiego phoenix 40 10
+1234 phoenix elPaso 43 25
+99 elPaso dallas 55 17
+35 dallas houston 150 8
+10 houston atlanta 150 16
+95 atlanta dc 125 7
+80 dc nyc 126 2
+55 nyc pittsburgh 67 3
+14 pittsburgh chicago 39 4
+87 chicago denver 41 4
+51 denver dallas 28 5
+1423 chicago reno 33 14
